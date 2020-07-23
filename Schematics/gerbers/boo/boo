@@ -1,0 +1,33 @@
+"Source:","/home/djd/tools/openpad/Schematics/gerbers/boo/boo.sch"
+"Date:","Wed 08 Jul 2020 12:26:17 AM EDT"
+"Tool:","Eeschema 5.1.6-c6e7f7d~86~ubuntu18.04.1"
+"Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value.py"
+"Component Count:","14"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"","","J1","Screw_Terminal_01x04","Connector:Screw_Terminal_01x04","TerminalBlock:TerminalBlock_bornier-4_P5.08mm","~"
+"","","J2","Screw_Terminal_01x04","Connector:Screw_Terminal_01x04","TerminalBlock:TerminalBlock_bornier-4_P5.08mm","~"
+"","","J3","Screw_Terminal_01x04","Connector:Screw_Terminal_01x04","TerminalBlock:TerminalBlock_bornier-4_P5.08mm","~"
+"","","J4","Screw_Terminal_01x04","Connector:Screw_Terminal_01x04","TerminalBlock:TerminalBlock_bornier-4_P5.08mm","~"
+"","","J5","AnalogOutputConn","Connector_Generic:Conn_01x04","Connector_JST:JST_XH_B4B-XH-AM_1x04_P2.50mm_Vertical","~"
+"","","R1","1M","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~"
+"","","R2","1M","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~"
+"","","R3","1M","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~"
+"","","R4","1M","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~"
+"","","R5","1M","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~"
+"","","R6","1M","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~"
+"","","R7","1M","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~"
+"","","R8","1M","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~"
+"","","U1","LM324","Amplifier_Operational:LM324","Package_DIP:DIP-14_W7.62mm_Socket","http://www.ti.com/lit/ds/symlink/lm2902-n.pdf"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"1","4","J1, J2, J3, J4","Screw_Terminal_01x04","Connector:Screw_Terminal_01x04","TerminalBlock:TerminalBlock_bornier-4_P5.08mm","~"
+"2","1","J5","AnalogOutputConn","Connector_Generic:Conn_01x04","Connector_JST:JST_XH_B4B-XH-AM_1x04_P2.50mm_Vertical","~"
+"3","8","R1, R2, R3, R4, R5, R6, R7, R8","1M","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~"
+"4","1","U1","LM324","Amplifier_Operational:LM324","Package_DIP:DIP-14_W7.62mm_Socket","http://www.ti.com/lit/ds/symlink/lm2902-n.pdf"

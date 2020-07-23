@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name aoeu)(type KiCad)(uri /home/djd/tools/openpad/Schematics/gerbers/boo/ProMicroKiCad-master/promicro_library)(options "")(descr aoeu))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name microchip12)(type Legacy)(uri /usr/share/kicad/library/MCU_Microchip_PIC12.lib)(options "")(descr aoeu))
+  (lib (name aoeu)(type Legacy)(uri /home/djd/tools/openpad/Schematics/gerbers/ioamp/library/myconn3.lib)(options "")(descr aoeu))
+)

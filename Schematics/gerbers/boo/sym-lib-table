@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name promicro)(type Legacy)(uri /home/djd/tools/openpad/Schematics/gerbers/boo/ProMicroKiCad-master/promicro_library/promicro.lib)(options "")(descr a))
+)

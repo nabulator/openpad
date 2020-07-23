@@ -1,0 +1,25 @@
+"Source:","/home/djd/tools/openpad/Schematics/gerbers/ioamp/ioamp.sch"
+"Date:","Tue 07 Jul 2020 11:40:49 AM EDT"
+"Tool:","Eeschema 5.1.6-c6e7f7d~86~ubuntu18.04.1"
+"Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value.py"
+"Component Count:","5"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"","","D1","LED","Device:LED","LED_THT:LED_D5.0mm","~"
+"","","J1","MYCONN3","aoeu:MYCONN3","Connector:Banana_Jack_3Pin",""
+"","","R1","1k","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical","~"
+"","","R2","100","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical","~"
+"","","U1","PIC12C508A-ISN","MCU_Microchip_PIC12:PIC12C508A-ISN","Package_DIP:DIP-8_W7.62mm","http://ww1.microchip.com/downloads/en/devicedoc/40139e.pdf"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"1","1","D1","LED","Device:LED","LED_THT:LED_D5.0mm","~"
+"2","1","J1","MYCONN3","aoeu:MYCONN3","Connector:Banana_Jack_3Pin",""
+"3","1","R1","1k","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical","~"
+"4","1","R2","100","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical","~"
+"5","1","U1","PIC12C508A-ISN","MCU_Microchip_PIC12:PIC12C508A-ISN","Package_DIP:DIP-8_W7.62mm","http://ww1.microchip.com/downloads/en/devicedoc/40139e.pdf"
