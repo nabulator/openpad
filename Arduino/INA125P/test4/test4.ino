@@ -1,4 +1,4 @@
-const int SENSORNUM = 4;
+const int SENSORNUM = 5;
 int i;
 float val[SENSORNUM];
 
